@@ -1,6 +1,6 @@
 # 3DMembraneReconstruction
 
-The is a package to reconstruct 3D membrane fluorescent/brightfield microscope images/movies.
+This is a package to reconstruct 3D membrane fluorescent/brightfield microscope images/movies. Original code developed by Yao Zhao; updated by Jessica Williams.
 
 ## System Requirement
 
