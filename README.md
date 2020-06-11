@@ -13,9 +13,9 @@ GUI or matlab script can be used to interact with the package. To start the GUI,
 
 ## Sample Images
 There are several different types of sample images
-- sample_image.dv ---- fission yeast nuclei labeled with cut11-gfp
-- sample_image_er.dv ---- fission yeast, er labled
-- sample_image_mamalian.dv –--- mamalian cell
+- sample_image.dv ---- fission yeast nuclei labeled with cut11-gfp (too large for GitHub upload; available on request)
+- sample_image_er.dv ---- fission yeast, er labled (too large for GitHub upload; available on request)
+- sample_image_mammalian.dv –--- mammalian cell (too large for GitHub upload; available on request)
 - sample_image_doubleparticle.TIF ---- 2 fluorescent particles per cell
 
 ## UI Guide
